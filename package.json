@@ -1,0 +1,8 @@
+{
+  "name": "releaseguard-github-remediation-demo",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Small public demo repository for testing ReleaseGuard GitHub analysis.",
+  "main": "src/index.js",
+  "scripts": { "build": "node scripts/build.js", "test": "node --test" }
+}
